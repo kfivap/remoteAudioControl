@@ -1,0 +1,23 @@
+h1{
+    text-align: center;
+}
+
+.slider {
+    writing-mode: bt-lr; /* IE */
+    -webkit-appearance: slider-vertical; /* WebKit */
+    width: 10px;
+    height: 100%;
+    color: blue;
+
+}
+
+
+.container-slider{
+height: 80vh;
+width: 100px;
+margin-left: 49vw;
+
+}
+
+
+
